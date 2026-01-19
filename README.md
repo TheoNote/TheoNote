@@ -2,11 +2,20 @@
 Je suis étudiant en première année à [ENIGMA-SCHOOL](https://www.enigma-school.com/)
 
 ## Mes languages de programmation sont :
-- Le python <img src="images/python_logo_icon.png" alt="drawing" width="20"/>
+- Python <img src="images/python_logo_icon.png" alt="drawing" height="20" style="vertical-align: middle;"/>
+
+- HTML <img src="images/html5_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
+
+- CSS <img src="images/CSS_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
+
+- PHP <img src="images/PHP_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
+
+- C <img src="images/C_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
+
+
 
 ## Et les languages en cours d'apprentisage sont :
-- Le HTML <img src="images/html5_logo.png" alt="drawing" width="20"/>
 
-- Le CSS
+- SQL <img src="images/SQL_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
 
-- Le JaveScript
+- Symfony <img src="images/Symfony_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
