@@ -4,7 +4,7 @@ Je suis étudiant en première année à [ENIGMA-SCHOOL](https://www.enigma-scho
 ## Mes languages de programmation sont :
 - Python <img src="images/python_logo_icon.png" alt="drawing" height="20" style="vertical-align: middle;"/>
 
-- HTML <img src="images/html5_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
+- HTML <img src="images/HTML_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
 
 - CSS <img src="images/CSS_logo.png" alt="drawing" height="20" style="vertical-align: middle;"/>
 
