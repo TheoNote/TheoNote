@@ -1,5 +1,5 @@
 # Salut je suis Théo
-Je suis étudiant en première année à [ENIGMA-SCHOOL](https://www.enigma-school.com/)
+Je suis étudiant en seconde année à [ENIGMA-SCHOOL](https://www.enigma-school.com/)
 
 ## Mes languages de programmation sont :
 - Python <img src="images/python_logo_icon.png" alt="drawing" height="20" align="center"/>
