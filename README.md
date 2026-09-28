@@ -12,10 +12,6 @@ Je suis étudiant en seconde année à [ENIGMA-SCHOOL](https://www.enigma-school
 
 - C <img src="images/C_logo.png" alt="drawing" height="20" align="center"/>
 
-
-
-## Et les languages en cours d'apprentisage sont :
+## J'ai des connaissances en : 
 
 - SQL <img src="images/SQL_logo.png" alt="drawing" height="20" align="center"/>
-
-- Symfony <img src="images/Symfony_logo.png" alt="drawing" height="20" align="center"/>
